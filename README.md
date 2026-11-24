@@ -2,7 +2,7 @@
 
 This repository contains the code and 3D-print files for the system described in:
 
-> Neefjes et al., *A simple, low-budget and scalable method for automatically tracking movement in arthropods* (in preparation)
+> Neefjes et al., *CAAMS: A scalable and adaptable continuous and automated arthropod monitoring system * (in preparation)
 
 The project provides a Raspberry Pi–based imaging setup that automatically quantifies arthropod movement over time and can be used to derive activity patterns and survival curves under laboratory conditions.
 
