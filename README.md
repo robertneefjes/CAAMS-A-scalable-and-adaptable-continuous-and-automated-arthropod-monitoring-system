@@ -1,4 +1,4 @@
-# A simple, low-budget and scalable method for automatically tracking movement in arthropods
+# CAAMS: A scalable and adaptable continuous and automated arthropod monitoring system 
 
 This repository contains the code and 3D-print files for the system described in:
 
